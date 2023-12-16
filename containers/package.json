@@ -22,7 +22,7 @@
     "@cdktf/provider-helm": "^9.0.0",
     "@cdktf/provider-kubernetes": "^10.0.0",
     "@cdktf/provider-null": "^9.0.0",
-    "cdk8s-plus-27": "^2.7.33",
+    "cdk8s-plus-27": "^2.7.69",
     "glob": "^10.3.10"
   }
 }
