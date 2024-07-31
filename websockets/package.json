@@ -17,7 +17,7 @@
     "winglang": "^0.51.0"
   },
   "dependencies": {
-    "@aws-sdk/client-apigatewaymanagementapi": "^3.451.0",
+    "@aws-sdk/client-apigatewaymanagementapi": "^3.529.0",
     "@cdktf/provider-aws": "^18.0.5",
     "aws-cdk-lib": "^2.109.0",
     "get-port": "^7.0.0",
